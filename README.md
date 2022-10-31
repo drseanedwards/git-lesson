@@ -13,7 +13,7 @@ Trial some of the markdown typestyles ie
 code 
 ```
 __italics__
-~~strikethrough
+~~strikethrough~~
 - unordered
 - bullet points
 1. numbered
